@@ -50,7 +50,7 @@ The project allowed me to practice building a more interactive front-end applica
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/ouichouani/youcode_01_04.git
 ```
 
 ### Open the project
